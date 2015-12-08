@@ -1,6 +1,7 @@
 localhost
 
 markdown {
+	ext .md
 	template post resources/post.html
 	template index resources/index.html
 	dev
