@@ -1,0 +1,9 @@
+localhost
+
+markdown {
+	sitegen
+	template post resources/post.html
+	template index resources/index.html
+	dev
+}
+
