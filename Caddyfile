@@ -1,7 +1,9 @@
 localhost
 
+ext .md
+
 markdown {
-	ext .md
+	sitegen
 	template post resources/post.html
 	template index resources/index.html
 	dev
