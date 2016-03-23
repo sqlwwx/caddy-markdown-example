@@ -10,4 +10,3 @@ markdown {
 	template index ../index-template.html
 	dev
 }
-

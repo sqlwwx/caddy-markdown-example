@@ -9,3 +9,14 @@ sitename = "A Caddy site"
 To see how this works
 
 Blah Blah
+
+```go
+package code
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, World!")
+}
+
+```
